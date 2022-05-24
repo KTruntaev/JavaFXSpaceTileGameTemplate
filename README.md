@@ -20,6 +20,8 @@ A simple game template to be used by students in a High School Intro to Computer
 
 The students get 3 weeks to work on their final Intro to Computer Programming projects, usually a game. This semester was the first using my newly created JavaFX mini-cirriculum, and so far has resulted in great student feedback and greater enjoyment than any year before.
 
+**CodingRooms Link:** https://app.codingrooms.com/w/tLXlaPB2Sge9 
+
 **Notable Student Games:**
 A Pokemon JavaFX Recreation - Jack Moore 2022
 ![image](https://user-images.githubusercontent.com/72285578/169948309-5da155c8-bfe6-4380-9842-419cb39d9d93.png)
